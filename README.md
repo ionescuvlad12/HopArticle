@@ -1,1 +1,1 @@
-# Predicting figure skaters jump performance usingneural networks based on anthropomorphicmeasurement.
+# Predicting figure skaters jump performance using neural networks based on anthropomorphic measurement.
